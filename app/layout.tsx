@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Pratikcargo",
-  description: "Basit Next.js test"
+  description: "Basit Next.js test",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -10,5 +10,3 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
-
-
